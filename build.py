@@ -16,10 +16,7 @@ def build(f):
     if mode == 'full':
         target = index_target
     else:
-        if f == index:
-            target = index_target
-        else:
-            target = root + '.html'
+        target = root + '.html'
 
     if os.path.exists(target):
         if mode == 'apart' or (mode == 'full' and is_meta_gen == False):
@@ -34,7 +31,6 @@ def build(f):
         html.write('<meta charset="utf-8">\n')
         is_meta_gen = True
     html.write(html_content)
-    html.write('\n<hr>\n')
 
 def main():
     global mode
