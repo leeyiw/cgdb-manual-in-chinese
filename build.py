@@ -70,7 +70,7 @@ def main():
     filelist = os.listdir('.')
     filelist.sort()
     for i, f in enumerate(filelist):
-        if f in exclude or f == summary:
+        if f in exclude or f == summary or f == contents:
             continue
         root, ext = os.path.splitext(f)
         if ext == '.md':
