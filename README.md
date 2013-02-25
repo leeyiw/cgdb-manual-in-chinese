@@ -10,5 +10,9 @@
 参与者
 ----
 
-* 李毅为<leeyiw@gmail.com>（翻译）
-* 武飞（校对）
+翻译：
+
+* [李毅为](<https://github.com/leeyiw>)
+
+校对：
+* 武飞
