@@ -13,12 +13,8 @@
 
 参与者
 ----
-翻译：
-
-* [李毅为](<https://github.com/leeyiw>)
-
-校对：
-* [武飞](<https://github.com/fayewu>)
+* [李毅为](<https://github.com/leeyiw>)（翻译1～4章）
+* [武飞](<https://github.com/fayewu>)（校对）
 
 开始阅读
 --------
