@@ -13,7 +13,7 @@
 
 参与者
 ----
-* [李毅为](<https://github.com/leeyiw>)（翻译1～4章）
+* [李毅为](<https://github.com/leeyiw>)（翻译1～5章）
 * [武飞](<https://github.com/fayewu>)（校对）
 * [diseng](<https://github.com/diseng>)（校对）
 
