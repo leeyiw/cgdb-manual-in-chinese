@@ -13,7 +13,8 @@
 
 参与者
 ----
-* [李毅为](<https://github.com/leeyiw>)（翻译1～5章）
+* [李毅为](<https://github.com/leeyiw>)（翻译第1～5章）
+* [Peixu.Zhu](<https://github.com/icandroid>)（翻译第6.2、6.3节）
 * [武飞](<https://github.com/fayewu>)（校对）
 * [diseng](<https://github.com/diseng>)（校对）
 
