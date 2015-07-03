@@ -13,6 +13,7 @@
 
 参与者
 ----
+感谢下列译者为本书的翻译作出的贡献，他们是：
 * [李毅为](<https://github.com/leeyiw>)（翻译第1～5章）
 * [Peixu.Zhu](<https://github.com/icandroid>)（翻译第6.2、6.3节）
 * [武飞](<https://github.com/fayewu>)（校对）
