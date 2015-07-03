@@ -1,7 +1,7 @@
 目录
 ===
 
-* [CGDB简介](<summary.md>)
+* [CGDB简介](<summary_of_cgdb.md>)
 * [1 打开和关闭CGDB](<1.0.md>)
 * [2 理解CGDB的几个核心概念](<2.0.md>)
  - [2.1 理解代码窗口](<2.1.md>)
