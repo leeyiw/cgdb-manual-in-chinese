@@ -9,7 +9,7 @@
 
 授权许可
 ------
-本书中的内容使用[CC BY-SA 4.0 License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/)授权。
+本书中的内容使用[CC BY-SA 4.0 International License（知识共享署名-相同方式共享 4.0 国际许可协议）](http://creativecommons.org/licenses/by-sa/4.0/)授权。
 
 参与者
 ----
