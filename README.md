@@ -19,6 +19,6 @@
 * [武飞](<https://github.com/fayewu>)（校对）
 * [diseng](<https://github.com/diseng>)（校对）
 
-开始阅读
+在 GitBook 上阅读本书
 --------
-[开始阅读](<SUMMARY.md>)
+[开始阅读](https://www.gitbook.com/book/leeyiw/cgdb-manual-in-chinese/details)
