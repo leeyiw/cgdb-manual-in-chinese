@@ -3,7 +3,7 @@
 
 import sys, os, markdown, codecs, re
 
-contents = 'contents.md'
+contents = 'SUMMARY.md'
 summary = 'summary.md'
 full_target = 'cgdb-manual-in-chinese.html'
 default_mode = 'full'
